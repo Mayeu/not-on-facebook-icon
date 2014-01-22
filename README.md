@@ -3,10 +3,10 @@
 ##Why?
 
 I do not like the "not on facebook" images, and since the hype in web-design is
-font icon, I made a not on facebook font icon. (Also, it is easier to integrate
+font icon, I made a "not on facebook" font icon. (Also, it is easier to integrate
 a font icon than an image when you do your design-fu).
 
-I am no designer! So it **certainly** be enhanced! Feel free to modify it and
+I am no designer! So it can **certainly** be improved! Feel free to modify it and
 share your work :)
 
 Thank to
