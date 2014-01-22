@@ -15,9 +15,9 @@ for the pointers :)
 
 ##Content
 
-![not on facebook icon](https://raw.github.com/Mayeu/not-on-facebook-icon/master/no-facebook.png)
+![not on facebook icon](https://raw.github.com/Mayeu/not-on-facebook-icon/master/not-on-facebook.png)
 
-The svg file contain the no-facebook glyph, you can use it as a font icon
+The font files contain the no-facebook glyph, you can use it as a font icon
 ([exemple](http://6x9.fr), with the help of [Icomoon](http://icomoon.io/app/))
 
 ##Licence
