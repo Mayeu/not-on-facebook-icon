@@ -9,7 +9,9 @@ a font icon than an image when you do your design-fu).
 I am no designer! So it **certainly** be enhanced! Feel free to modify it and
 share your work :)
 
-Thank to @a-foutoyet for the pointers :)
+Thank to
+[@a-foutoyet](https://github.com/a-foutoyet)/[@allfordesign](https://twitter.com/allfordesign)
+for the pointers :)
 
 ##Content
 
