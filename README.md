@@ -13,7 +13,7 @@ share your work :)
 
 ### Usage
 
-Download [not-on-facebook.css](not-on-facebook.css) and include it in your project. Then just use the `no-facebook` class on any element you want to have the icon. Magic!
+Download [not-on-facebook.css](not-on-facebook.css) and include it in your project. Then just use the `no-facebook` class on any element you want to have the icon. Magic! See a minimal example of it in use [here](index.html)
 
 ### Licence & Credits
 
