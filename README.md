@@ -1,6 +1,6 @@
 # Not on Facebook font icon
 
-![not on facebook icon](https://raw.github.com/Mayeu/not-on-facebook-icon/master/not-on-facebook.png)
+![not on facebook icon](https://raw.github.com/Mayeu/not-on-facebook-icon/master/resources/not-on-facebook.png)
 
 ### Why?
 
