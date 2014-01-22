@@ -13,7 +13,7 @@ Thank to @a-foutoyet for the pointers :)
 
 ##Content
 
-![no-facebook.png]
+![not on facebook icon][no-facebook.png]
 
 The svg file contain the no-facebook glyph, you can use it as a font icon
 ([exemple](http://6x9.fr), with the help of [Icomoon](http://icomoon.io/app/))
