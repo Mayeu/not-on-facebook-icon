@@ -1,10 +1,10 @@
 @font-face {
    font-family: 'not-on-facebook';
-   src:url('fonts/not-on-facebook.eot');
-   src:url('fonts/not-on-facebook.eot?#iefix') format('embedded-opentype'),
-   url('fonts/not-on-facebook.woff') format('woff'),
-   url('fonts/not-on-facebook.ttf') format('truetype'),
-   url('fonts/not-on-facebook.svg#not-on-facebook') format('svg');
+   src:url('ressources/not-on-facebook.eot');
+   src:url('ressources/not-on-facebook.eot?#iefix') format('embedded-opentype'),
+   url('ressources/not-on-facebook.woff') format('woff'),
+   url('ressources/not-on-facebook.ttf') format('truetype'),
+   url('ressources/not-on-facebook.svg#not-on-facebook') format('svg');
    font-weight: normal;
    font-style: normal;
 }
