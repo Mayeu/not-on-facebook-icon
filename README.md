@@ -24,6 +24,12 @@ to have the icon. Magic! See a minimal example of it in use
 The `resources` folder contains all the other font types, `svg` and a bitmap
 version of the glyph.
 
+## Related
+
+You may be interested in
+[not-social](https://github.com/conchyliculture/not-social), an anti-social
+font generator. Supporting much more than this simple Facebook icon.
+
 ## Licence & Credits
 
 - License: [CC3 BY-SA](http://creativecommons.org/licenses/by/3.0/deed.en).
